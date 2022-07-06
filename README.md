@@ -1,16 +1,6 @@
-# personal_expense_calculator
+# Personal Expense Calculator
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="438" alt="Screenshot 2022-07-07 at 3 02 39 AM" src="https://user-images.githubusercontent.com/62739964/177647226-ab2b63a4-c879-4a87-a4bc-8fe00fc702be.png">
+<img width="452" alt="Screenshot 2022-07-07 at 3 03 40 AM" src="https://user-images.githubusercontent.com/62739964/177647355-6340a275-3d9f-4b0e-9613-a6e4b0e3d234.png">
+<img width="438" alt="Screenshot 2022-07-07 at 3 04 00 AM" src="https://user-images.githubusercontent.com/62739964/177647393-7daba3c4-cca9-4ee1-ad00-64cef52d7ef5.png">
